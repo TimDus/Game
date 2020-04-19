@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0dd6e97a4a89d3543a0ba2ecee8d591e
+  - enabled: 1
+    path: Assets/Scenes/MinigameHub.unity
+    guid: e69e0ada64ee31743badbcac66fc6a96
+  - enabled: 1
+    path: Assets/Scenes/Minigame1.unity
+    guid: 4b0e19c574c6bf848b82987d6233bae8
+  m_configObjects: {}
