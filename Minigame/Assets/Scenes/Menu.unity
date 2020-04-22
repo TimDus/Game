@@ -414,7 +414,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 2087269429}
-          m_MethodName: Sceneloader
+          m_MethodName: MenuToHub
           m_Mode: 3
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
